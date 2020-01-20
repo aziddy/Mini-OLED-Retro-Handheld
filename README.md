@@ -16,7 +16,7 @@
 * Some PCB Power Switch I ripped from a portable speaker
 * Adafruit Feather 328P
 * 4 Tactile Switches
-* Protoboard
+* Double Sided Protoboard
 * Some random battery I ripped from some portable speaker
 * OLED Display 128x64 Pixel I2C, 0.96 inch, SSD1306 
 
