@@ -20,6 +20,16 @@
 * Some random battery I ripped from some portable speaker
 * OLED Display 128x64 Pixel I2C, 0.96 inch, SSD1306 
 
+<p align="center" style="vertical-align: top; position: relative" >
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/parts/1988_d9ab1bc4-37ee-4b47-8687-ac5aa7976e0a2.jpg?raw=true" width="300"/>
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/parts/6-6-6-H-4legs-tact-switch.jpg_350x350.jpg?raw=true" width="300"/>
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/parts/c3422_large_miniature_pcb_mount_slide_switch.jpg?raw=true" width="300"/>
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/parts/thumb.jpg?raw=true" width="300"/>
+</p>
+
+
+
+
 <br>
 
 ## 3D Design
