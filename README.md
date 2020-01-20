@@ -13,7 +13,7 @@
 
 ## Component List
 
-* Some Power Switch I ripped from a portable speaker
+* Some PCB Power Switch I ripped from a portable speaker
 * Adafruit Feather 328P
 * 4 Tactile Switches
 * Protoboard
