@@ -11,6 +11,17 @@
 <br>
 <br>
 
+## Component List
+
+* Some Power Switch I ripped from a portable speaker
+* Adafruit Feather 328P
+* 4 Tactile Switches
+* Protoboard
+* Some random battery I ripped from some portable speaker
+* OLED Display 128x64 Pixel I2C, 0.96 inch, SSD1306 
+
+<br>
+
 ## 3D Design
 <p style="vertical-align: top; position: relative" >
 Took inspiration from the Nintendo Switch Joy-Con Grip
