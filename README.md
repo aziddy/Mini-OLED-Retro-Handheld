@@ -45,3 +45,5 @@ Took inspiration from the Nintendo Switch Joy-Con Grip
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/71kFVCPfEEL._AC_SL1500_.jpg?raw=true" width="300"/>
 
 </p>
+
+## Wiring
