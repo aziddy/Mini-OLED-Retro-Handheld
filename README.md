@@ -4,6 +4,7 @@
 
 <p align="center" style="vertical-align: top; position: relative" >
   
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/ezgif-7-e783d192cd6b.gif?raw=true" width="400"/>  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235728.jpg?raw=true" width="400"/>  
 
 </p>
