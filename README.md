@@ -59,4 +59,17 @@ Took inspiration from the Nintendo Switch Joy-Con Grip
 
 </p>
 
+## Build Process
+<br>
+<br>
+
+<p align="center" style="vertical-align: top; position: relative" >
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200117_173503.jpg?raw=true" width="500"/>    
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235737.jpg?raw=true" width="500"/>  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235728.jpg?raw=true" width="500"/>  
+
+
+
+
+</p>
 
