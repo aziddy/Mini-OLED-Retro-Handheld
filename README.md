@@ -1,6 +1,6 @@
 # Mini-OLED-Retro-Handheld
 I have no idea why built this, but I love video games and building things
-
+<br>
 
 <p align="center" style="vertical-align: top; position: relative" >
   
