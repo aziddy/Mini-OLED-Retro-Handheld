@@ -67,14 +67,19 @@ Sepearted into two parts **PCB mount** and **Grip** (original grip: https://www.
 Not too crazy of a build. Measured everything to fit onto a square piece of protoboard that I dremeled.
 
 <p align="center" style="vertical-align: top; position: relative" >
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200117_173503.jpg?raw=true" width="500"/>    
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200117_173503.jpg?raw=true" width="500"/>    
+</p>
   
   Followed by some soldering which required some wires because I didn't think too much about the protoboard really only having one double sided layer
   
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235737.jpg?raw=true" width="500"/>  
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235728.jpg?raw=true" width="500"/>  
-
-
+<p align="center" style="vertical-align: top; position: relative" >  
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235737.jpg?raw=true" width="500"/>  
+</p>
+  
+  The fact that all the componenets fit on one side and that they all fit perfectly makes me sooo happy
+<p align="center" style="vertical-align: top; position: relative" > 
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235728.jpg?raw=true" width="500"/>  
+</p>
 
 
 </p>
