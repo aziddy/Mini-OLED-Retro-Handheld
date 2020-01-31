@@ -19,12 +19,13 @@
 
 ## Component List
 
-* Some PCB Power Switch I ripped from a portable speaker
+* Some PCB Power Switch
 * Adafruit Feather 328P
 * 4 Tactile Switches
 * Double Sided Protoboard
-* Some random battery I ripped from some portable speaker
+* Some random LiPo battery I ripped from some portable speaker
 * OLED Display 128x64 Pixel I2C, 0.96 inch, SSD1306 
+* 3D printed parts
 
 <p align="center" style="vertical-align: top; position: relative" >
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/parts/1988_d9ab1bc4-37ee-4b47-8687-ac5aa7976e0a2.jpg?raw=true" width="300"/>
@@ -40,7 +41,9 @@
 
 ## 3D Design
 <p style="vertical-align: top; position: relative" >
-Took inspiration from the Nintendo Switch Joy-Con Grip
+Took inspiration from the Nintendo Switch Joy-Con Grip. 
+  
+Sepearted into two parts **PCB mount** and **Grip** (original grip: https://www.thingiverse.com/thing:2774595).
 </p>
 <br>
 <br>
@@ -60,11 +63,14 @@ Took inspiration from the Nintendo Switch Joy-Con Grip
 </p>
 
 ## Build Process
-<br>
-<br>
+
+Not too crazy of a build. Measured everything to fit onto a square piece of protoboard that I dremeled.
 
 <p align="center" style="vertical-align: top; position: relative" >
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200117_173503.jpg?raw=true" width="500"/>    
+  
+  Followed by some soldering which required some wires because I didn't think too much about the protoboard really only having one double sided layer
+  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235737.jpg?raw=true" width="500"/>  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200119_235728.jpg?raw=true" width="500"/>  
 
